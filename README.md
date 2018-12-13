@@ -2,4 +2,4 @@
 PowerShell Module for Extrahop
 
 Current API coverage
-![alt text]('https://github.com/hematic/Storage/raw/master/Current Extrahop API Coverage.PNG')
+![Current API coverage](https://github.com/hematic/Storage/raw/master/CurrentExtrahopAPICoverage.PNG)
